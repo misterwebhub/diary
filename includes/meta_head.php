@@ -30,5 +30,11 @@
   <link rel="stylesheet" href="<?php echo $base_url;?>plugins/daterangepicker/daterangepicker.css">
   <!-- summernote -->
   <link rel="stylesheet" href="<?php echo $base_url;?>plugins/summernote/summernote-bs4.min.css">
+
+  <!-- jQuery -->
+<script src="<?php echo $base_url;?>plugins/jquery/jquery.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="<?php echo $base_url;?>plugins/jquery-ui/jquery-ui.min.js"></script>
+
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
