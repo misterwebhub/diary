@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 13, 2022 at 09:25 AM
+-- Generation Time: Nov 29, 2022 at 12:38 PM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 7.4.29
 
@@ -71,7 +71,7 @@ CREATE TABLE `users_contacts` (
 --
 
 INSERT INTO `users_contacts` (`id`, `user_id`, `email`, `user_pic`, `phone`, `address`, `comment`, `name`, `status`, `created_at`, `deleted_at`) VALUES
-(1, 12, 'misterwebhub@gmail.com', 'uploads/contacts/Screenshot (3).png', '08299226971', NULL, NULL, 'Misterwebhub Ansari', 1, '2022-11-13 13:20:08', NULL),
+(1, 12, 'misterwebhub@gmail.com', 'uploads/contacts/Screenshot (3).png', '08299226971', NULL, NULL, 'Misterwebhub ansari', 1, '2022-11-13 13:20:08', NULL),
 (2, 12, 'danwebdevelopert8564@gmail.com', 'uploads/contacts/Screenshot (3).png', '7867867872', NULL, NULL, 'danish', 1, '2022-11-13 13:20:56', NULL),
 (3, 11, 'misterwebhuasdasdb@gmail.com', '', '3123123', NULL, NULL, 'adasdajkdy', 1, '2022-11-13 13:49:00', NULL);
 
