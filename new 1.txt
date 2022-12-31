@@ -1,0 +1,83 @@
+e73819fda8
+
+DELETE FROM `statement_items` WHERE `statement_items`.`id` = 9038;
+DELETE FROM `statement_items` WHERE `statement_items`.`id` = 9039;
+DELETE FROM `statement_items` WHERE `statement_items`.`id` = 9040;
+DELETE FROM `statement_items` WHERE `statement_items`.`id` = 9041;
+DELETE FROM `statement_items` WHERE `statement_items`.`id` = 9042;
+
+
+
+[28/10, 18:05] Zoe Catney
+    
+
+Statement ID - 472f9aac07
+
+Update info – Events 
+
+Evening with Matt Mason – Celebration of Local Food & Drink
+
+
+	
+Total collected – £892.00
+	
+Booking fees – £55.64
+	
+Event Protect fees – £51.36
+
+
+Fireworks at the Manor 
+
+
+	
+Total collected – £519.20
+	
+Booking fees – £49.90
+	
+Event Protect fees – £29.30
+
+
+Fireworks at the Manor – hold 
+
+
+	
+Total collected – £31.66
+	
+Booking fees – £5.19
+	
+Event Protect fees – £2.13
+
+
+Street Food & Sounds Festival 
+
+
+	
+Tickets sold – 90
+	
+Total collected – £1,017.19
+	
+Booking fees – £92.38
+	
+Event Protect fees – £59.06
+
+
+The Forge – New Years Eve Celebration 
+
+
+	
+Total collected – £2,180.00
+	
+Booking fees – £93.44
+	
+Event Protect fees – £118.92
+
+
+
+Total due on 07/10/2022 should be £1,470.21
+
+
+[Payout-Statement-01_09_2022_to_30_09_2022 to be updated.pdf] (https://helmtickets.sharepoint.com/sites/ExternalDevelopment/Shared Documents/General/Payout-Statement-01_09_2022_to_30_09_2022 to be updated.pdf)<https://teams.microsoft.com/l/message/19:28efb3151b904f658d135e732bdfde9d@thread.tacv2/1666960553321?tenantId=4ed87e66-8c8a-4bae-aff7-49d359623224&amp;groupId=46e1f317-b02a-4114-b46d-34d91110c760&amp;parentMessageId=1666953596142&amp;teamName=External Development&amp;channelName=General&amp;createdTime=1666960553321&amp;allowXTenantAccess=false>
+
+
+
+fb6eee7f7a
